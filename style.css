@@ -1,0 +1,12 @@
+body{font-family:Arial,Helvetica,sans-serif;margin:20px;color:#222}
+header{margin-bottom:14px}
+nav a{margin-right:8px}
+table{width:100%;border-collapse:collapse;margin:10px 0}
+table th,table td{border:1px solid #ddd;padding:8px;text-align:left}
+.muted{color:#666;font-size:0.9em}
+.card{border:1px solid #ddd;padding:12px;background:#fafafa}
+label{display:block;margin:8px 0}
+input,textarea,button,select{padding:6px;border:1px solid #ccc;border-radius:3px}
+button{cursor:pointer}
+.specs{font-size:0.9em;color:#444;margin-top:6px}
+.error{color:#a00}
